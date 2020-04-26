@@ -1,0 +1,36 @@
+img {
+  float: left;
+  width: 400px
+  height: 300px;
+}
+.topstyle {
+  text-align: center;
+  font-weight: bold;
+  font-size:80px;
+  color: darkorange;
+  background-color: black;
+}
+.sidebar {
+  height: 640px;
+  width: 850px;
+  background-color: lightblue;
+  float: right;
+}
+.sectionheadings {
+  font-size: 40px;
+  text-align: center;
+  color: darkorange;
+  font-style: italic;;
+  background-color: black;
+}
+.continentscolumns {
+  width: 400px;
+  float: left;
+  background-color: lightgrey;
+}
+.listing1 {
+  font-style: italic;
+}
+.columnseparator {
+  width: 300px;
+}
